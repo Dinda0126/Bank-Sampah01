@@ -6,8 +6,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Produk By Mahakarya Promosindo">
-    <meta name="author" content="Mahakarya Promosindo">
+    <meta name="description" content="Produk By STMIK Nusa Mandiri - Kelompok 6">
+    <meta name="author" content="Bank Sampah - Kelompok 6">
 
     <title>Transaksi Penjualan</title>
 
@@ -56,7 +56,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:center;">Copyright &copy; <?php echo date('Y');?> by Mahakarya Promosindo</p>
+                    <p style="text-align:center;">Copyright &copy; <?php echo date('Y');?> by STMIK Nusa Mandiri - Kelompok 6</p>
                 </div>
             </div>
             <!-- /.row -->

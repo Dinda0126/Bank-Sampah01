@@ -249,7 +249,7 @@
                         <div class="form-group">
                             <label class="control-label col-xs-3" >Kode Barang</label>
                             <div class="col-xs-9">
-                                <input name="kobar" class="form-control" type="text" value="<?php echo $id;?>" placeholder="Kode Barang..." style="width:335px;" readonly>
+                                <input name="kobar" class="form-control" type="text" value="<?php echo $id;?>" placeholder="Kode Barang..." style="width:335px;" required>
                             </div>
                         </div>
 
@@ -1081,7 +1081,8 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:center;">Copyright &copy; <?php echo '2017';?> by M Fikri Setiadi</p>
+                    <p style="text-align:center;">Copyright &copy; <?php echo '2020';?> | Bank Sampah STMIK Nusa Mandiri - Kelompok 6
+</p>
                 </div>
             </div>
             <!-- /.row -->

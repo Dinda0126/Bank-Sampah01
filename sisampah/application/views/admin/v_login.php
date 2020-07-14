@@ -36,7 +36,7 @@
 			        </div>
 
 			        <div class="already">
-			            <p>Copyright - 2020 | STMIK NUSA MANDIRI - KELOMPOK 1 </p>
+			            <p>Copyright - 2020 | STMIK NUSA MANDIRI - KELOMPOK 6 </p>
 			            
 			        </div>
 			    </div>

@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Bank Sampah Kelompok 1">
+    <meta name="description" content="Bank Sampah Kelompok 6">
     <meta name="author" content="Nico Dwi Novianto">
 
     <title>Welcome To Point of Sale Apps</title>
@@ -58,7 +58,7 @@
                 
                     <tr>
                         <td style="text-align:center;vertical-align:middle">1</td>
-                        <td style="vertical-align:middle;">Laporan Data Barang</td>
+                        <td style="vertical-align:middle;">Laporan Data Sampah</td>
                         <td style="text-align:center;">
                             <a class="btn btn-sm btn-default" href="<?php echo base_url().'admin/laporan/lap_data_barang'?>" target="_blank"><span class="fa fa-print"></span> Print</a>
                         </td>
@@ -66,7 +66,7 @@
 
                     <tr>
                         <td style="text-align:center;vertical-align:middle">2</td>
-                        <td style="vertical-align:middle;">Laporan Stok Barang</td>
+                        <td style="vertical-align:middle;">Laporan Stok Sampah</td>
                         <td style="text-align:center;">
                             <a class="btn btn-sm btn-default" href="<?php echo base_url().'admin/laporan/lap_stok_barang'?>" target="_blank"><span class="fa fa-print"></span> Print</a>
                         </td>
@@ -270,7 +270,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:center;">Copyright &copy; <?php echo '2017';?> by M Fikri Setiadi</p>
+                    <p style="text-align:center;">Copyright &copy; <?php echo '2020';?> | Bank Sampah STMIK Nusa Mandiri - Kelompok 6</p>
                 </div>
             </div>
             <!-- /.row -->

@@ -50,7 +50,7 @@ echo "<tr style='background-color:#ccc;'>
     <td width='8%' align='center'>No Faktur</td>
     <td width='10%' align='center'>Tanggal</td>
     <td width='10%' align='center'>Kode</td>
-    <td width='30%' align='center'>Nama Sampah</td>
+    <td width='30%' align='center'>Nama Barang</td>
     <td width='7%' align='center'>Satuan</td>
     <td width='7%' align='center'>Harga Jual</td>
     <td width='5%' align='center'>Qty</td>
@@ -93,7 +93,7 @@ $nomor=1;
 </table>
 <table align="center" style="width:800px; border:none;margin-top:5px;margin-bottom:20px;">
     <tr>
-        <td align="right">Tegal, <?php echo date('d-M-Y')?></td>
+        <td align="right">Jakarta, <?php echo date('d-M-Y')?></td>
     </tr>
     <tr>
         <td align="right"></td>

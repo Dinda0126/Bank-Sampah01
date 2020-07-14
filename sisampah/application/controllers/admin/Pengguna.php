@@ -28,7 +28,7 @@ class Pengguna extends CI_Controller{
 			echo $this->session->set_flashdata('msg','<label class="label label-danger">Password yang Anda Masukan Tidak Sama</label>');
 			redirect('admin/pengguna');
 		}else{
-			$this->m_pengguna->simpan_pengguna($nama,$username,$password,$level);
+			$this->m_pengguna->simpan_pengguna($nama,$username,$password,$alamat);
 			echo $this->session->set_flashdata('msg','<label class="label label-success">Pengguna Berhasil ditambahkan</label>');
 			redirect('admin/pengguna');
 		}

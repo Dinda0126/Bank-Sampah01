@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Bank Sampah Kelompok 1">
+    <meta name="description" content="Bank Sampah Kelompok 6">
     <meta name="author" content="Nico Dwi Novianto">
 
     <title>Report - Bank Sampah</title>

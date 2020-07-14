@@ -6,10 +6,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Bank Sampah Kelompok 1">
-    <meta name="author" content="Nico Dwi Novianto">
+    <meta name="description" content="Bank Sampah Kelompok 6">
+    <meta name="author" content="Dinda Nerissa Arviana">
 
-    <title>Welcome To Point of Sale Apps</title>
+    <title>Pengaturan Akun</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="<?php echo base_url().'assets/css/bootstrap.min.css'?>" rel="stylesheet">
@@ -36,9 +36,9 @@
         <div class="row">
             <div class="col-lg-12">
             <center><?php echo $this->session->flashdata('msg');?></center>
-                <h1 class="page-header">Data
-                    <small>Pengguna</small>
-                    <div class="pull-right"><a href="#" class="btn btn-sm btn-success" data-toggle="modal" data-target="#largeModal"><span class="fa fa-plus"></span> Tambah Pengguna</a></div>
+                <h1 class="page-header">Pengaturan
+                    <small>Akun</small>
+                    <div class="pull-right"><a href="#" class="btn btn-sm btn-success" data-toggle="modal" data-target="#largeModal"><span class="fa fa-plus"></span> Tambah</a></div>
                 </h1>
             </div>
         </div>
@@ -267,7 +267,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:center;">Copyright &copy; <?php echo '2020';?> by Kelompok 1</p>
+                    <p style="text-align:center;">Copyright &copy; <?php echo '2020';?> | Bank Sampah STMIK Nusa Mandiri - Kelompok 6</p>
                 </div>
             </div>
             <!-- /.row -->

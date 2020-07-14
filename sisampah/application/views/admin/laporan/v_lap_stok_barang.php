@@ -14,7 +14,7 @@
 
 <table border="0" align="center" style="width:800px; border:none;margin-top:5px;margin-bottom:0px;">
 <tr>
-    <td colspan="2" style="width:800px;paddin-left:20px;"><center><h4>LAPORAN STOK BARANG PERKATEGORI</h4></center><br/></td>
+    <td colspan="2" style="width:800px;paddin-left:20px;"><center><h4>LAPORAN STOK PERKATEGORI</h4></center><br/></td>
 </tr>
                        
 </table>
@@ -44,7 +44,7 @@
         echo "<tr><td colspan='2'><b>Kategori: $kat</b></td> <td style='text-align:center;'><b>Total Stok: $tots </b></td></tr>";
 echo "<tr style='background-color:#ccc;'>
     <td width='4%' align='center'>No</td>
-    <td width='60%' align='center'>Nama Barang</td>
+    <td width='60%' align='center'>Nama Sampah</td>
     <td width='30%' align='center'>Stok</td>
     
     </tr>";
@@ -76,7 +76,7 @@ $nomor=1;
 </table>
 <table align="center" style="width:800px; border:none;margin-top:5px;margin-bottom:20px;">
     <tr>
-        <td align="right">Padang, <?php echo date('d-M-Y')?></td>
+        <td align="right">Jakarta, <?php echo date('d-M-Y')?></td>
     </tr>
     <tr>
         <td align="right"></td>

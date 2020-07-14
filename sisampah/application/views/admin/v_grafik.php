@@ -6,8 +6,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Bank Sampah Kelompok 1">
-    <meta name="author" content="Nico Dwi Novianto">
+    <meta name="description" content="Bank Sampah 7">
+    <meta name="author" content="Dinda Nerissa Arviana">
 
     <title>Grafik - Bank Sampah</title>
 
@@ -66,7 +66,7 @@
 
                     <tr>
                         <td style="text-align:center;vertical-align:middle">2</td>
-                        <td style="vertical-align:middle;">Grafik Penjualan Sampah (Bulan)</td>
+                        <td style="vertical-align:middle;">Grafik Penjualan Barang (Bulan)</td>
                         <td style="text-align:center;">
                             <a class="btn btn-sm btn-default" href="#lap_jual_perbulan" data-toggle="modal"><span class="fa fa-eye"></span> Lihat</a>
                         </td>
@@ -74,7 +74,7 @@
 
                     <tr>
                         <td style="text-align:center;vertical-align:middle">3</td>
-                        <td style="vertical-align:middle;">Grafik Penjualan Sampah (Tahun)</td>
+                        <td style="vertical-align:middle;">Grafik Penjualan Barang (Tahun)</td>
                         <td style="text-align:center;">
                             <a class="btn btn-sm btn-default" href="#lap_jual_pertahun" data-toggle="modal"><span class="fa fa-eye"></span> Lihat</a>
                         </td>

@@ -2,7 +2,7 @@
 		<div class="pull-right hidden-xs">
 			<b>Ubah Sampah</b> Menjadi Rupiah
 		</div>
-		<strong>Bank Sampah Kelompok 1 | STMIK Nusa Mandiri</strong>
+		<strong>Bank Sampah Kelompok 6 | STMIK Nusa Mandiri</strong>
 	</footer>
 	</div>
 

@@ -1,6 +1,6 @@
 <html lang="en" moznomarginboxes mozdisallowselectionprint>
 <head>
-    <title>laporan data barang</title>
+    <title>laporan data sampah</title>
     <meta charset="utf-8">
     <link rel="stylesheet" href="<?php echo base_url('assets/css/laporan.css')?>"/>
 </head>
@@ -14,7 +14,7 @@
 
 <table border="0" align="center" style="width:800px; border:none;margin-top:5px;margin-bottom:0px;">
 <tr>
-    <td colspan="2" style="width:800px;paddin-left:20px;"><center><h4>LAPORAN DATA BARANG</h4></center><br/></td>
+    <td colspan="2" style="width:800px;paddin-left:20px;"><center><h4>LAPORAN DATA SAMPAH DAN BARANG</h4></center><br/></td>
 </tr>
                        
 </table>
@@ -42,8 +42,8 @@
         echo "<tr><td colspan='6'><b>Kategori: $kat</b></td> </tr>";
 echo "<tr style='background-color:#ccc;'>
     <td width='4%' align='center'>No</td>
-    <td width='10%' align='center'>Kode Barang</td>
-    <td width='40%' align='center'>Nama Barang</td>
+    <td width='10%' align='center'>Kode Sampah</td>
+    <td width='40%' align='center'>Nama Sampah</td>
     <td width='10%' align='center'>Satuan</td>
     <td width='20%' align='center'>Harga Jual</td>
     <td width='30%' align='center'>Stok</td>
@@ -80,7 +80,7 @@ $nomor=1;
 </table>
 <table align="center" style="width:800px; border:none;margin-top:5px;margin-bottom:20px;">
     <tr>
-        <td align="right">Padang, <?php echo date('d-M-Y')?></td>
+        <td align="right">Jakarta, <?php echo date('d-M-Y')?></td>
     </tr>
     <tr>
         <td align="right"></td>

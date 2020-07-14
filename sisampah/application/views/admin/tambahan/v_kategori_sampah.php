@@ -10,11 +10,11 @@
 
 		<div class="row">
 			<div class="col-lg-9">
-				
-				<a href="<?php echo base_url().'kategori_sampah/tambah'; ?>" class="btn btn-sm btn-primary">Buat Kategori baru</a>
 
-				<br/>
-				<br/>
+				<a href="<?php echo base_url() . 'kategori_sampah/tambah'; ?>" class="btn btn-sm btn-primary">Buat Kategori baru</a>
+
+				<br />
+				<br />
 
 				<div class="box box-primary">
 					<div class="box-header">
@@ -30,22 +30,22 @@
 								</tr>
 							</thead>
 							<tbody>
-								<?php 
+								<?php
 								$no = 1;
-								foreach($kategori_sampah as $ks){ 
-									?>
+								foreach ($kategori_sampah as $ks) {
+								?>
 									<tr>
 										<td><?php echo $no++; ?></td>
 										<td><?php echo $ks->kat_sampah_jenis; ?></td>
 										<td>
-											<a href="<?php echo base_url().'kategoriSampah_edit'.$ks->kat_sampah_id; ?>" class="btn btn-warning btn-sm"> <i class="fa fa-pencil"></i> </a>
-											<a href="<?php echo base_url().'kategoriSampah_hapus'.$ks->kat_sampah_id; ?>" class="btn btn-danger btn-sm"> <i class="fa fa-trash"></i> </a>
+											<a href="<?php echo base_url() . 'kategoriSampah_edit' . $ks->kat_barang_id; ?>" class="btn btn-warning btn-sm"> <i class="fa fa-pencil"></i> </a>
+											<a href="<?php echo base_url() . 'kategoriSampah_hapus' . $ks->kat_barang_id; ?>" class="btn btn-danger btn-sm"> <i class="fa fa-trash"></i> </a>
 										</td>
 									</tr>
 								<?php } ?>
 							</tbody>
 						</table>
-						
+
 
 					</div>
 				</div>
